@@ -1,1 +1,3 @@
-# light-bootstrap-dashboard-pro
+# Light Bootstrap Dashboard PRO
+
+Coming soon on <a href="www.creative-tim.com">Creative Tim</a>...
