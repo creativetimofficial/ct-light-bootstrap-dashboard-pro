@@ -1,7 +1,7 @@
 # [Light Bootstrap Dashboard PRO](http://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html)
 [![version][version-badge]][CHANGELOG]
 
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/34/thumb/opt_lbd_pro_new_thumbnail.jpg)
+![alt text](https://s3.amazonaws.com/creativetim_bucket/products/34/original/opt_lbd_pro_new_thumbnail.jpg)
 
 **[Light Bootstrap Dashboard PRO](http://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html)** is a Bootstrap Admin Theme designed to look simple and beautiful. Forget about boring dashboards and grab yourself a copy to kickstart new project! It is the easiest way to save time and money for your development.
 What it is
