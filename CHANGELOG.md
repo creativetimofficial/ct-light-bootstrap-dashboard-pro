@@ -1,6 +1,6 @@
 # Change Log
 
-## [1.4.0] 2017-11-07
+## [1.4.0] 2017-11-08
 ### Major Updates
 - added new structure for Sidebar Mini
 - responsive sidebar is now `css` without `javascript`
