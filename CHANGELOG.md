@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.4.1] 2017-11-20
+### Bugfixing
+- `perfectScrollbar` library fixed on IE
+- minimize sidebar button now change the icon when `sidebar-mini` is active
+
 ## [1.4.0] 2017-11-08
 ### Major Updates
 - added new structure for Sidebar Mini
