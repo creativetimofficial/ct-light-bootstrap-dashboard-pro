@@ -1,11 +1,11 @@
 # [Light Bootstrap Dashboard PRO](http://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html)
 [![version][version-badge]][CHANGELOG]
 
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/34/original/opt_lbd_pro_new_thumbnail.jpg)
+![alt text](https://s3.amazonaws.com/creativetim_bucket/products/34/original/opt_lbd_pro_thumbnail.jpg)
 
-**[Light Bootstrap Dashboard PRO](http://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html)** is a Bootstrap Admin Theme designed to look simple and beautiful. Forget about boring dashboards and grab yourself a copy to kickstart new project! It is the easiest way to save time and money for your development.
+**[Light Bootstrap Dashboard PRO](http://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html)** is a Bootstrap 4 Admin Theme designed to look simple and beautiful. Forget about boring dashboards and grab yourself a copy to kickstart new project! It is the easiest way to save time and money for your development.
 What it is
-Light Bootstrap Dashboard is built over Bootstrap and it comes integrated with a large number of third-party apps redesigned to fit in with the rest of the elements.
+Light Bootstrap Dashboard is built over Bootstrap 4 and it comes integrated with a large number of third-party apps redesigned to fit in with the rest of the elements.
 
 If you want to see the basic version of the dashboard, please check out this link. You can download it for free and play around to see if you like the look and feel of it.
 
@@ -20,7 +20,10 @@ It comes with 6 filter colors for the sidebar (`black`, `azure`,`green`,`orange`
 
 ## Links:
 
-+ [Live Preview](http://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html)
++ [Bootstrap 3](http://demos.creative-tim.com/bs3/light-bootstrap-dashboard-pro/examples/dashboard.html)
++ [Bootstrap 4](http://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html)
++ [Documentation 3](https://demos.creative-tim.com/bs3/light-bootstrap-dashboard-pro/documentation/tutorial-components.html)
++ [Documentation 4](https://demos.creative-tim.com/light-bootstrap-dashboard-pro/documentation/tutorial-components.html)
 
 ## Quick Start:
 
@@ -40,64 +43,64 @@ Other Products:
 
 Within the download you'll find the following directories and files:
 ```
+
 light-bootstrap-dashboard-pro
-├── HTML
-│   ├── assets
-│   │   ├── css
-│   │   │   ├── bootstrap.min.css
-│   │   │   ├── demo.css
-│   │   │   ├── light-bootstrap-dashboard.css
-│   │   │   └── pe-icon-7-stroke.css
-│   │   ├── fonts
-│   │   ├── img
-│   │   ├── js
-│   │   └── sass
-│   │       ├── lbd
-│   │       └── light-bootstrap-dashboard.scss
-│   ├── documentation
-│   └── examples
-│       ├── calendar.html
-│       ├── charts.html
-│       ├── components
-│       │   ├── buttons.html
-│       │   ├── grid.html
-│       │   ├── icons.html
-│       │   ├── notifications.html
-│       │   ├── panels.html
-│       │   ├── sweet-alert.html
-│       │   └── typography.html
-│       ├── dashboard.html
-│       ├── forms
-│       │   ├── extended.html
-│       │   ├── regular.html
-│       │   ├── validation.html
-│       │   └── wizard.html
-│       ├── maps
-│       │   ├── fullscreen.html
-│       │   ├── google.html
-│       │   └── vector.html
-│       ├── navbar-fixed-example.html
-│       ├── pages
-│       │   ├── lock.html
-│       │   ├── login.html
-│       │   ├── register.html
-│       │   └── user.html
-│       ├── plain-page.html
-│       ├── sidebar-mini-example.html
-│       └── tables
-│           ├── bootstrap-table.html
-│           ├── datatables.net.html
-│           ├── extended.html
-│           └── regular.html
-├── Sketch
+├── CHANGELOG.md
+├── README.md
+├── assets
+│   ├── css
+│   │   ├── bootstrap.min.css
+│   │   ├── demo.css
+│   │   ├── documentation.css
+│   │   └──  light-bootstrap-dashboard.css
 │   ├── fonts
-│   │   ├── FontAwesome.otf
-│   │   ├── Pe-icon-7-stroke.eot
-│   │   ├── Pe-icon-7-stroke.ttf
-│   │   ├── Pe-icon-7-stroke.woff
-│   │   └── fontawesome-webfont.ttf
-│   └── light-bootstrap-dashboard-pro.sketch
-└── CHANGELOG.md
+│   ├── img
+│   ├── js
+│   │   ├── core
+│   │   ├── demo.js
+│   │   ├── light-bootstrap-dashboard.js
+│   │   └── plugins
+│   └── main.css
+├── documentation
+│   ├── template.html
+│   └── tutorial-components.html
+└── examples
+    ├── calendar.html
+    ├── charts.html
+    ├── components
+    │   ├── buttons.html
+    │   ├── grid.html
+    │   ├── icons.html
+    │   ├── notifications.html
+    │   ├── panels.html
+    │   ├── sweet-alert.html
+    │   └── typography.html
+    ├── dashboard.html
+    ├── forms
+    │   ├── extended.html
+    │   ├── regular.html
+    │   ├── validation.html
+    │   └── wizard.html
+    ├── maps
+    │   ├── fullscreen.html
+    │   ├── google.html
+    │   └── vector.html
+    ├── navbar-fixed-example.html
+    ├── pages
+    │   ├── lock.html
+    │   ├── login.html
+    │   ├── register.html
+    │   └── user.html
+    ├── plain-page.html
+    ├── sidebar-mini-example.html
+    ├── table.html
+    ├── tables
+    │   ├── bootstrap-table.html
+    │   ├── datatables.net.html
+    │   ├── extended.html
+    │   └── regular.html
+    └── upgrade.html
+
 ```
 ## Useful Links
 
@@ -122,4 +125,4 @@ Google+: <https://plus.google.com/+CreativetimPage>
 Instagram: <https://instagram.com/creativetimofficial>
 
 [CHANGELOG]: ./CHANGELOG.md
-[version-badge]: https://img.shields.io/badge/version-1.4.1-blue.svg
+[version-badge]: https://img.shields.io/badge/version-2.0.0-blue.svg

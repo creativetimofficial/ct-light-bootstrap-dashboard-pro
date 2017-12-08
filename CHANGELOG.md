@@ -1,5 +1,12 @@
 # Change Log
 
+## [2.0.0] 2017-12-08
+### Major Release
+- update to Bootstrap 4 Beta
+- added new icons by Nucleo
+- bug fixes and improvements
+- code refactoring
+
 ## [1.4.1] 2017-11-20
 ### Bugfixing
 - `perfectScrollbar` library fixed on IE
